@@ -30,23 +30,34 @@ verification procedures, corrections, and research decisions.
 
 ## AI-001
 
-**Date:**  
-**Tool:**  
-**Purpose:Research companies and workplace practices for a company personality quiz website.
+**Date:**  10/6/2026 - 10/20/2026
+**Tool:** ChatGPT
+**Purpose:** Research companies and workplace practices for a company personality quiz website.
 
-**  
 
-**Prompt:**
+
+**Prompt:** I am making a personality quiz website about companies. The first example is handmade brick-making in Bangladesh. I also need two scam call centers and three normal companies. The quiz should give different company results depending on whether someone chooses profit over doing the right thing.
+
+
 > 
 
-**Result:**
+**Result:** 
 - 
 
-**Sources Returned:**
-- 
+Helped develop the idea for a company ethics personality quiz.
+
+Identified different types of companies and workplace practices to investigate.
+
+Connected quiz answers to ethical and unethical business decisions.
+
+
+
+**Sources Returned:** 
+
+Websites and research resources about companies and workplace ethics.- 
 
 **Action Taken:**
-- 
+Used the research to plan a Python quiz website that shows different company results based on users' answers.- 
 
 ---
 
