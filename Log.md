@@ -60,21 +60,24 @@ Used the research to plan a Python quiz website that shows different company res
 
 ## SOURCE-001
 
-**Title:**  
-**Authors:**  
-**Publication:**  
-**Year:**  
-**DOI:**  
+**Title:**  Health Hazards of Child Labour in Brick Kilns of Bangladesh
+**Authors:** Bangladesh Institute of Labour Studies (BILS); research team included Afzal Kabir Khan, Aurongajeb Akond, Subrata Banarjee, Md. Omar Faruk, Md. Fazla Rabbi, and Md. Shahin. 
+**Publication:**  International Labour Organization (ILO), International Programme on the Elimination of Child Labour (IPEC)
 
-**Found Via:**  
 
-**Publisher:**  
+**Year:**  2014
+**DOI:**  No DOI listed.
 
-**DOI Verified:** Yes / No
+**Found Via:**  ChatGPT research assistance
 
-**Publisher Verified:** Yes / No
+**Publisher:**  International Labour Organization (ILO)
+
+**DOI Verified:** Yes / No No — no DOI was listed on the publication page.
+
+**Publisher Verified:** Yes / No  Yes — checked the official ILO website.
 
 **Citation Verified:** Yes / No
+Yes — title, publication year, and publication information checked against the official ILO page.
 
 **Notes:**  
 
