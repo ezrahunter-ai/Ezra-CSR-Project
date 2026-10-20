@@ -32,7 +32,9 @@ verification procedures, corrections, and research decisions.
 
 **Date:**  
 **Tool:**  
-**Purpose:**  
+**Purpose:Research companies and workplace practices for a company personality quiz website.
+
+**  
 
 **Prompt:**
 > 
