@@ -16,7 +16,7 @@ verification procedures, corrections, and research decisions.
 
 | Tool | Purpose | Model/Version | Date Used |
 |---|---|---|---|
-| ChatGPT | Research / analysis | | |
+| ChatGPT | Research / analysis |I used chatGPT to look up websites on bangladish hand made brick making | Made it look at  |
 | Perplexity | Web research | | |
 | Google Scholar | Academic search | | |
 | Consensus | Evidence search | | |
