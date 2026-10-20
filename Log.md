@@ -61,7 +61,9 @@ Used the research to plan a Python quiz website that shows different company res
 ## SOURCE-001
 
 **Title:**  Health Hazards of Child Labour in Brick Kilns of Bangladesh
+
 **Authors:** Bangladesh Institute of Labour Studies (BILS); research team included Afzal Kabir Khan, Aurongajeb Akond, Subrata Banarjee, Md. Omar Faruk, Md. Fazla Rabbi, and Md. Shahin. 
+
 **Publication:**  International Labour Organization (ILO), International Programme on the Elimination of Child Labour (IPEC)
 
 
