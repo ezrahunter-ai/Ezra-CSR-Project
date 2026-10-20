@@ -89,19 +89,23 @@ Yes — title, publication year, and publication information checked against the
 
 ## CLAIM-001
 
-**Claim:**  
+**Claim:**  Children working in Bangladesh's brick kilns can face dangerous working conditions that put their health and safety at risk.
 
-**Source:** SOURCE-001
 
-**Evidence Location:**  
 
-**Assessment:**  
+**Source:** source one/1
+
+**Evidence Location:**  The ILO report's research description and findings on occupational health hazards and risks among children working in Bangladesh's brick kilns.
+
+
+
+**Assessment:**  SUPPORTED
 SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
 
-**Confidence:**  
+**Confidence:**  High kid
 High / Medium / Low
 
-**Notes:**  
+**Notes:**  The International Labour Organization's 2014 report investigates the physical and psychological conditions of children working in brick kilns. Researchers used direct observations, interviews, and focus group discussions to examine workplace hazards. This supports the claim that brick kiln work can put children's health and safety at risk. The report does not, by itself, prove that every brick kiln has the same conditions.
 
 ---
 
@@ -109,9 +113,10 @@ High / Medium / Low
 
 ## CITATION-CHECK-001
 
-**Citation Provided By:**  
+**Citation Provided By:** CHATGPT I THINK I DON't know. 
 
-**Citation:**  
+**Citation:** 
+International Labour Office, International Programme on the Elimination of Child Labour (IPEC). (2014). Health Hazards of Child Labour in Brick Kilns of Bangladesh. Geneva: International Labour Organization.
 
 **DOI:**  
 
